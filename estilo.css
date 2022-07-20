@@ -1,0 +1,68 @@
+body {
+  background-color: #814356;
+}
+.enunciado {
+  text-align: center;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  background-image: url(https://media.viajando.travel/p/3217571dbfa132acc3273f141cb5e4b9/adjuntos/236/imagenes/000/439/0000439540/1200x0/smart/valle-uco-una-las-regiones-mendoza-argentina-que-visita-el-bus-vitivinicola.jpg);
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+}
+h1 {
+  font-family: Jokerman, Harrington, "Curlz MT";
+  font-size: 4em;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+h2 {
+  margin-top: 0;
+  font-family: Georgia, "Baskerville Old Face", "Goudy Old Style";
+}
+p {
+  font-style: normal;
+  font-size: 1em;
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.negrita {
+  font-weight: bold;
+}
+.bloque1 {
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to right, #814356, #a16060, #e8d8d8);
+}
+.imagen {
+  width: auto;
+  border: 1px solid;
+  position: relative;
+  margin: 7px;
+}
+.imagen1 {
+  width: 325px;
+  border: 1px solid;
+  position: absolute;
+  top: 636px;
+  left: 927px;
+}
+.imagen2 {
+  width: 325px;
+  border: 1px solid;
+  position: absolute;
+  top: 443px;
+  left: 927px;
+}
+.imagen3 {
+  width: 325px;
+  border: 1px solid;
+  position: absolute;
+  top: 636px;
+}
+.imagen4 {
+  width: 325px;
+  border: 1px solid;
+  position: absolute;
+  margin-top: 7px;
+}
