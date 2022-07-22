@@ -37,32 +37,32 @@ p {
 .imagen {
   width: auto;
   border: 1px solid;
-  position: relative;
+  position: relative; 
   margin: 7px;
 }
 .imagen1 {
   width: 325px;
   border: 1px solid;
-  position: absolute;
+  position: absolute; 
   top: 636px;
   left: 927px;
 }
 .imagen2 {
   width: 325px;
   border: 1px solid;
-  position: absolute;
+  position: absolute; 
   top: 443px;
   left: 927px;
 }
 .imagen3 {
   width: 325px;
   border: 1px solid;
-  position: absolute;
+  position: absolute; 
   top: 636px;
 }
 .imagen4 {
   width: 325px;
   border: 1px solid;
-  position: absolute;
+  position: absolute; 
   margin-top: 7px;
 }
